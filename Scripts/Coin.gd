@@ -3,7 +3,7 @@ extends Area2D
 # You can change these to your likings
 @export var amplitude := 4
 @export var frequency := 5
-
+#Din mor
 var time_passed = 0
 var initial_position := Vector2.ZERO
 
