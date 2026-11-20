@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cm1fe5dcf38tc"
+path="res://.godot/imported/cactus_tall.obj-cb9d6046db1e2d915da0e58c47b6527d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cactus_tall.obj-cb9d6046db1e2d915da0e58c47b6527d.mesh"]
+
+source_file="res://godot-constraint-solving-ebd52c6afa8616c383333dc3783ae34504476ea6/addons/wfc/examples/assets/kenny-nature-kit/obj/cactus_tall.obj"
+dest_files=["res://.godot/imported/cactus_tall.obj-cb9d6046db1e2d915da0e58c47b6527d.mesh", "res://.godot/imported/cactus_tall.obj-cb9d6046db1e2d915da0e58c47b6527d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
